@@ -1,6 +1,7 @@
 # Game Of Dots And Boxes
 ***Old school-time game, played at backbench with just Dots and Boxes also known for pencil and paper game***
 
+Code is made with p5js library and is to run with browser as Javascript
 
 
 <p align="center">
