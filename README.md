@@ -1,5 +1,8 @@
 # Game Of Dots And Boxes
-## Old school-time game, played at backbench with just Dots and Boxes
+***Old school-time game, played at backbench with just Dots and Boxes also known for pencil and paper game***
+
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Nikeshbajaj/GameOfDotsAndBoxes/master/Screenshot1.png" width="420"/> <img src="https://raw.githubusercontent.com/Nikeshbajaj/GameOfDotsAndBoxes/master/Screenshot2.png" width="420"/>
 </p>
