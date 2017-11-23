@@ -1,4 +1,4 @@
-// Game of Dots & Lines
+// Game of Dots & Boxes
 // Version V1.0
 // @Author _  Nikesh Bajaj
 // PhD Scholar : Queen Mary University of London & University of Genova
