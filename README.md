@@ -15,9 +15,9 @@ Game of Dots and Lines is a two player game (sometime more players can play, but
 #### Once select any option, click of 'Apply and Start' button in order to apply this new selection
 #### Player 2
 * **User**  - If you want to play with another player
-* **Dumb **  - If you want to play with Computer but computer player will be Dumb and will play dumb 
+* **Dumb**  - If you want to play with Computer but computer player will be Dumb and will play dumb 
 * **Smart** - If you wanna play with Smart computer player (Though it won't be as smart as possible)
-* **Auto **  - If you select this, two smart computer players will play with each other
+* **Auto**  - If you select this, two smart computer players will play with each other
 
 #### Grid Size
 * **Small** - Small size grid of dots
@@ -39,7 +39,7 @@ Game of Dots and Lines is a two player game (sometime more players can play, but
 
 
 ## Improve the Code
-**If you are in Game development & AI Stretagy or Planning AI Agent, try to improve the computer player to be more smarter than it is now. There are flaws in Computer Player's stratagy. I won't tell you NOW ;) Explore it and try to fix it. Let me know once you do it. I would like discuss :)**
+**If you are in Game development or AI Stretagy or Planning AI Agent, try to improve the computer player to be more smarter than it is now. There are flaws in Computer Player's stratagy. I won't tell you NOW ;) Explore it and try to fix it. Let me know once you do it. I would like discuss :)**
 
 
 
