@@ -44,6 +44,9 @@ Game of Dots and Lines is a two player game (sometime more players can play, but
 
 
 **@Author : Nikesh Bajaj**
+
 **PhD Student @ QMUL and UNIGE**
+
 **n.bajaj@qmul.ac.uk**
+
 **http://nikeshbajaj.in**
