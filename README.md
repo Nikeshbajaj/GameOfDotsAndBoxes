@@ -27,10 +27,10 @@ Game of Dots and Lines is a two player game (sometime more players can play, but
 ## Draw Line
 #### As you move your pointer, you can see the line you can draw, once you click on it, it will be drawn
 
-## Color
-### Player 1 : Red
-### Player 2 : Green
-### Score Bar and Player turn can be seen at right side on grid.
+## Color Coding
+##### Player 1 : Red
+##### Player 2 : Green
+##### Score Bar and Player turn can be seen at right side on grid.
 
 
 ..
@@ -38,8 +38,8 @@ Game of Dots and Lines is a two player game (sometime more players can play, but
 ### Try 'Auto' option with 'Big Size' of grid and let the computer play both end
 
 
-# Improve the Code
-## if you are in Game development & AI Stretagy or Planning AI Agent, try to improve the computer player to be more smarter than it is now. There are flaws in Computer Player's stratagy. I won't tell you NOW ;) Explore it and try to fix it. Let me know once you do it. I would like discuss :)
+## Improve the Code
+##### if you are in Game development & AI Stretagy or Planning AI Agent, try to improve the computer player to be more smarter than it is now. There are flaws in Computer Player's stratagy. I won't tell you NOW ;) Explore it and try to fix it. Let me know once you do it. I would like discuss :)
 
 
 
