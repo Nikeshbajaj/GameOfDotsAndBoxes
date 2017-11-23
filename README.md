@@ -1,7 +1,7 @@
 # Game Of Dots And Boxes
 ## Old school-time game, played at backbench with just Dots and Boxes
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nikeshbajaj/GameOfDotsAndLines/master/Screenshot1.png" width="420"/> <img src="https://raw.githubusercontent.com/Nikeshbajaj/GameOfDotsAndLines/master/Screenshot2.png" width="420"/>
+<img src="https://raw.githubusercontent.com/Nikeshbajaj/GameOfDotsAndBoxes/master/Screenshot1.png" width="420"/> <img src="https://raw.githubusercontent.com/Nikeshbajaj/GameOfDotsAndBoxes/master/Screenshot2.png" width="420"/>
 </p>
 
 ## Plot of Game
