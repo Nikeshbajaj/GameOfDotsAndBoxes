@@ -1,6 +1,7 @@
 # Game Of Dots And Boxes
 ***Old school-time game, played at backbench with just Dots and Boxes also known for pencil and paper game***
 
+### **V[iew on Github Page](https://nikeshbajaj.github.io/ClassicSnakeGame/)**
 Code is made with p5js library and is to run with browser as Javascript
 
 
